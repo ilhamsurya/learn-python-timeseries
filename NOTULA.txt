@@ -1,0 +1,55 @@
+REFERENSI 
+KAGGLE
+
+REQUIREMENT
+1. Trend terkait dengan kategori (kejadiannya) 
+	(Per hari) 
+        (Per jam)
+2. Trend terkait satu kategori kejadian, subkategori
+	(Per hari) 
+        (Per jam)
+3. Trend terkait dengan kategori (lokasi kejadian) (lat,long) => (lokasi)
+	(Per hari) 
+        (Per jam)
+4. Trend terkait satu kategori kejadian, subkategori berdasarkan (lokasi kejadian) (lat,long)
+	(Per hari) 
+        (Per jam)
+5. Trend terkait dengan kategori dengan jenis kapal 
+	(Per hari) 
+        (Per jam)
+6. Trend terkait dengan kategori dan sub kategori dengan jenis kapal sama
+	(Per hari) 
+        (Per jam)
+7. Trend terkait dengan sub kategori, jenis kapal dan lokasi kejadian (lat,long) => (lokasii)
+	(Per hari) 
+        (Per jam)
+8. Trend terkait dengan kategori dengan bendera kapal 
+	(Per hari) 
+        (Per jam)
+9. Trend terkait dengan kategori, sub kategori dengan bendera kapal 
+	
+KEAMANAN LAUT
+Kategori (18)
+Sub Kategori
+Lat
+Long
+Tempat kejadian (Laut jawa)
+Bendera kapal (asal negara)
+jenis kapal 
+Perusahaan
+Pelabuhan akhir : Berakhir dimana kapalnya
+Pelabuhan tujuan : Tujuan Kapalnya
+Klasifikasi berita: A-F
+Isi berita: 1-6
+Pemeriksa: siapa pemeriksa kejadiannya ()
+Organisasi / Afiliasi: 
+Kapten kapal: 
+kewarganegaraan kapten: ?
+
+Mengembangkan aplikasi untuk menganalisis
+kejahatan di laut
+Menyajikan trend analysis kejahatan di laut
+
+ARSITEKTUR
+Microservice
+
